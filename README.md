@@ -1,2 +1,2 @@
-# guides
+# Tiiny Host Code Snippets for Guides
 Code snippets for guides on tiiny.host/blog
